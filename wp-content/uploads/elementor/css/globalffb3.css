@@ -25,6 +25,7 @@
 }
 .dropdown-content a {
   display: block;
+  text-align: center;
   color: #FFF;
   background-color: #50164e;
   padding: 5px;
