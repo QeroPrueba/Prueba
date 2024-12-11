@@ -22,6 +22,7 @@
 }
 .dropdown:hover .dropdown-content {
   display: block;
+  text-align: center;
 }
 .dropdown-content a {
   display: block;
@@ -33,5 +34,6 @@
 }
 .dropdown-content a:hover {
   color: #FFFFFF;
+  text-align: center;
   background-color: #a37f40;
 }
